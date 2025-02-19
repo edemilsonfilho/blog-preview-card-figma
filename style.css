@@ -36,3 +36,28 @@
  .foto {
      padding: 24px;
  }
+
+ .Learning {
+     border-radius: 4px;
+     justify-content: center;
+     align-items: center;
+     font-size: 12px;
+     margin-left: 24px;
+     display: flex;
+     background-color: #F4D04E;
+     width: 73px;
+     height: 26px;
+ }
+
+ .dat {
+
+     margin-left: 24px;
+     font-size: 12px;
+     margin-top: 12px;
+ }
+
+ .bio {
+     margin-top: 12px;
+     margin-left: 24px;
+     font-size: 20px;
+ }
